@@ -102,8 +102,7 @@ Still building anyway.
 
 [![Instagram](https://img.shields.io/badge/Instagram-alfitoms-black?style=for-the-badge&logo=instagram)](https://instagram.com/alfitoms)
 
-[![Facebook](https://img.shields.io/badge/Facebook-alfitoms-black?style=for-the-badge&logo=facebook)](https://facebook.com/alfitoms)
-
+[![Facebook](https://img.shields.io/badge/Facebook-alfitoms-black?style=for-the-badge&logo=facebook)](https://web.facebook.com/muhammad.m.saputra.330/)
 </div>
 
 ---
