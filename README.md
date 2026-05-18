@@ -69,8 +69,8 @@ Still building anyway.
 # 📫 Contact
 
 ```yaml
-Instagram: @yourusername
-Github: github.com/yourusername
+Instagram: @alfitoms
+Github: github.com/sirfitoo10
 ```
 
 ---
